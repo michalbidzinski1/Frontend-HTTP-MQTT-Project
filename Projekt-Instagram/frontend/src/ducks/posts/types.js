@@ -1,0 +1,7 @@
+export const GET_POSTS = "GET_POSTS";
+export const GET_POST_REQUEST = "GET_POST_REQUEST";
+export const GET_POST_REQUEST_FAIL = "GET_POST_REQUEST_FAIL";
+export const POST_CREATE = "POST_CREATE";
+export const POST_DELETE = "POST_DELETE";
+export const UPDATE_POST = "UPDATE_POST";
+export const ADD_COMMENT_TO_POST = "ADD_COMMENT_TO_POST";

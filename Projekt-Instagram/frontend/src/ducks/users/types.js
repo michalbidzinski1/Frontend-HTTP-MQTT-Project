@@ -1,0 +1,9 @@
+export const GET_USERS = "GET_USERS";
+export const GET_USERS_REQUEST = "GET_USERS_REQUEST";
+export const GET_USERS_REQUEST_FAIL = "GET_USERS_REQUEST_FAIL";
+export const USER_CREATE = "USER_CREATE";
+export const USER_DELETE = "USER_DELETE";
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_START = "LOGIN_START";
+export const LOGIN_FAILURE = "LOGIN_FAILURE";
+export const UPDATE_USER = "UPDATE_USER";
